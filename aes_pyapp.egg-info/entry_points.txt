@@ -1,0 +1,2 @@
+[console_scripts]
+aes_pyapp = aes_pyapp.main:main
