@@ -18,21 +18,22 @@ A Python-based AES encryption/decryption application with a user-friendly Tkinte
 ## How to Use
 
 1. **Clone the repository:**
-
   ```bash
   git clone
+   ```
 
 2. **Install dependencies:**
-
   ```bash
   pip install -r requirements.txt
+   ```
 
 3. **Run the application:**
-
   ```bash
   python main.py
+   ```
 
 4. **Building into an Executable:**
   ```bash
   pip install pyinstaller
   pyinstaller --onefile --windowed main.py
+   ```
