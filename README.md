@@ -19,7 +19,7 @@ A Python-based AES encryption/decryption application with a user-friendly Tkinte
 
 1. **Clone the repository:**
   ```bash
-  git clone
+  git clone https://github.com/vitegod/Python-Encryptor.git
    ```
 
 2. **Install dependencies:**
