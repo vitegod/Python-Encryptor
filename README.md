@@ -1,10 +1,6 @@
 # Python-Encryptor
 A Python-based AES encryption/decryption application with a user-friendly Tkinter GUI. Allows users to encrypt and decrypt messages, generate random keys, and save keys for future use.
 
-# Python Encryptor
-
-This is a simple Python application that provides AES encryption and decryption capabilities through an intuitive graphical user interface built with Tkinter.
-
 ## Features
 
 * **Encrypt and Decrypt:** Securely encrypt and decrypt messages using the AES algorithm.
